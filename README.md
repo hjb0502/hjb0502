@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hjb0502&label=Profile%20views&color=0e75b6&style=flat" alt="hjb0502" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ad.hjb.gidshd@gmail.com</h3>
 <p align="left">
 </p>
 
